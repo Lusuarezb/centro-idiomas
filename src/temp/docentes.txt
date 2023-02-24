@@ -1,0 +1,4 @@
+DocenteDoce DocenteDoce;12;DocenteDoce@gmail.com;12
+Calificar;VerHorario;VerCursos;VerDocentes;VerTodosLosEstudiantes;VerEstudiantesCurso;HacerSugerencia;VerSugerencias;PromedioCurso
+DocenteTrece DocenteTrece;13;DocenteTrece@gmail.com;13
+Calificar;VerHorario;VerCursos;VerDocentes;VerTodosLosEstudiantes;VerEstudiantesCurso;HacerSugerencia;VerSugerencias;PromedioCurso
